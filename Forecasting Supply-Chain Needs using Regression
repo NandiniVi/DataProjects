@@ -1,5 +1,5 @@
 # Reading the dataset
-df <- read.csv("C:\\Users\\Hayden\\Documents\\Adjusted_Data.csv", header = TRUE)
+df <- read.csv("C:\\Users\\Nandini\\Documents\\Adjusted_Data.csv", header = TRUE)
 attach(df) 
 head(df)
 str(df)
